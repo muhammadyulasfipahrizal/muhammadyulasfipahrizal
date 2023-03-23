@@ -20,7 +20,7 @@ Anything related to information systems and technology
 📫 How to reach me:
 
 Email: muhammadpahrizal790@gmail.com
-LinkedIn: [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/muhammad-yulasfi-pahrizal/)
+LinkedIn: [[Pahri Linkedln Profile]](https://www.linkedin.com/in/muhammad-yulasfi-pahrizal/)
 
 <!---
 muhammadyulasfipahrizal/muhammadyulasfipahrizal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
