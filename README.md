@@ -6,12 +6,12 @@ I'm a junior web developer currently studying Information System at Mulia Univer
 - Developing responsive websites using HTML, CSS, and JavaScript
 - Learning new web development frameworks such as ReactJS and NodeJS
 - Improving my problem-solving skills through online coding challenges
-- 
+
 🌱 I'm currently learning:
 - Advanced web development concepts such as server-side rendering and API integration
 - UI/UX design principles to create more visually appealing websites
 - Collaborating with other developers through Git and GitHub
-- 
+
 💬 Ask me about:
 - My experience with web development projects
 - Tips and resources for learning web development
