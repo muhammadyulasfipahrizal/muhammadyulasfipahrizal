@@ -25,8 +25,8 @@ Here Is My Github Stats
 
 
 📫 How to reach me:
-Email: muhammadpahrizal790@gmail.com
-LinkedIn: [[Pahri Linkedln Profile]](https://www.linkedin.com/in/muhammad-yulasfi-pahrizal/)
+- Email: muhammadpahrizal790@gmail.com
+- LinkedIn: [[Pahri Linkedln Profile]](https://www.linkedin.com/in/muhammad-yulasfi-pahrizal/)
 
 <!---
 muhammadyulasfipahrizal/muhammadyulasfipahrizal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
