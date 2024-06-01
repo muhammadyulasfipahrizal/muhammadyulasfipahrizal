@@ -1,10 +1,10 @@
 Hi there, I'm Pahri 👋
 
-I'm a junior web developer currently studying Information System at Mulia University. My passion for programming began when I was introduced to HTML and CSS during my high school days, and since then I have been continuously improving my skills in web development.
+A passionate web developer and Information Systems student at Mulia University. My journey into coding started with HTML and CSS in high school, and I've been honing my web development skills ever since. I'm dedicated to creating efficient, responsive, and user-friendly web applications. Let's build something amazing together!
 
 🔭 I'm currently working on:
-- Developing responsive websites using HTML, CSS, and JavaScript
-- Learning new web development frameworks such as ReactJS and NodeJS
+- Developing responsive websites frameworks such as ReactJS Vue.js And Flutter
+- Learning backend web development using node.js And Asp.Net
 - Improving my problem-solving skills through online coding challenges
 
 🌱 I'm currently learning:
