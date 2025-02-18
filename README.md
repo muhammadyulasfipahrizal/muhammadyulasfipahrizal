@@ -1,6 +1,6 @@
 Hi there, I'm Pahri 👋
 
-A passionate web developer and Information Systems student at Mulia University. My journey into coding started with HTML and CSS in high school, and I've been honing my web development skills ever since. I'm dedicated to creating efficient, responsive, and user-friendly web applications. Let's build something amazing together!
+A passionate web developer and Information Systems student at Mulia University. My journey into coding started with HTML and CSS in high school, and I've been honing my web development skills ever since. I'm dedicated to creating efficient, responsive, and user-friendly web applications. Let's build something amazing together!!
 
 🔭 I'm currently working on:
 - Developing responsive websites frameworks such as ReactJS Vue.js And Flutter
